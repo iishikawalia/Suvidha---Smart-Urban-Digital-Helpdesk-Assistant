@@ -1,0 +1,211 @@
+receipt_id,ref_type,ref_id,citizen_id,generated_at,details
+1,REQ,1,3,2024-11-10 21:00:00,Service Request #1 | Category: Drain Issue | Status: Pending
+2,REQ,2,5,2024-09-20 07:00:00,Service Request #2 | Category: Illegal Dumping | Status: Pending
+3,REQ,3,2,2025-02-04 22:00:00,Service Request #3 | Category: Power Outage | Status: Pending
+4,REQ,4,5,2024-07-04 20:00:00,Service Request #4 | Category: New Connection | Status: Pending
+5,REQ,5,39,2024-07-09 22:00:00,Service Request #5 | Category: Power Outage | Status: Pending
+6,REQ,6,9,2024-11-28 16:00:00,Service Request #6 | Category: Water Quality | Status: Pending
+7,REQ,7,8,2024-09-22 20:00:00,Service Request #7 | Category: New Connection | Status: Pending
+8,REQ,8,17,2024-04-20 03:00:00,Service Request #8 | Category: General Query | Status: Pending
+9,REQ,9,45,2024-03-03 12:00:00,Service Request #9 | Category: Subsidy | Status: Pending
+10,REQ,10,29,2024-02-15 05:00:00,Service Request #10 | Category: Power Outage | Status: Pending
+11,REQ,11,46,2024-06-02 13:00:00,Service Request #11 | Category: Billing Dispute | Status: Pending
+12,REQ,12,12,2024-03-03 14:00:00,Service Request #12 | Category: General Query | Status: Pending
+13,REQ,13,16,2024-10-11 02:00:00,Service Request #13 | Category: General Query | Status: Pending
+14,REQ,14,30,2024-11-09 10:00:00,Service Request #14 | Category: General Query | Status: Pending
+15,REQ,15,20,2024-09-03 00:00:00,Service Request #15 | Category: New Connection | Status: Pending
+16,REQ,16,50,2024-03-05 18:00:00,Service Request #16 | Category: New Connection | Status: Pending
+17,REQ,17,29,2024-03-07 01:00:00,Service Request #17 | Category: Low Pressure | Status: Pending
+18,REQ,18,12,2024-09-14 09:00:00,Service Request #18 | Category: General Query | Status: Pending
+19,REQ,19,34,2024-06-15 06:00:00,Service Request #19 | Category: Power Outage | Status: Pending
+20,REQ,20,23,2024-05-08 14:00:00,Service Request #20 | Category: Water Quality | Status: Pending
+21,REQ,21,18,2024-09-30 10:00:00,Service Request #21 | Category: Power Outage | Status: Pending
+22,REQ,22,38,2024-11-16 07:00:00,Service Request #22 | Category: Missed Collection | Status: Pending
+23,REQ,23,22,2024-01-15 10:00:00,Service Request #23 | Category: Document Check | Status: Pending
+24,REQ,24,17,2024-08-02 03:00:00,Service Request #24 | Category: Illegal Dumping | Status: Pending
+25,REQ,25,2,2024-05-29 04:00:00,Service Request #25 | Category: Low Pressure | Status: Pending
+26,REQ,26,16,2024-06-01 22:00:00,Service Request #26 | Category: General Query | Status: Pending
+27,REQ,27,11,2024-04-14 18:00:00,Service Request #27 | Category: Low Pressure | Status: Pending
+28,REQ,28,10,2025-01-10 19:00:00,Service Request #28 | Category: Billing Dispute | Status: Pending
+29,REQ,29,49,2024-06-12 15:00:00,Service Request #29 | Category: Billing Dispute | Status: Pending
+30,REQ,30,8,2024-02-19 09:00:00,Service Request #30 | Category: Emergency | Status: Pending
+31,REQ,31,25,2024-03-22 18:00:00,Service Request #31 | Category: Document Check | Status: Pending
+32,REQ,32,13,2024-08-27 23:00:00,Service Request #32 | Category: General Query | Status: Pending
+33,REQ,33,32,2024-09-15 22:00:00,Service Request #33 | Category: New Connection | Status: Pending
+34,REQ,34,14,2024-05-24 23:00:00,Service Request #34 | Category: Missed Collection | Status: Pending
+35,REQ,35,57,2024-05-27 01:00:00,Service Request #35 | Category: Document Check | Status: Pending
+36,REQ,36,28,2024-07-06 20:00:00,Service Request #36 | Category: Power Outage | Status: Pending
+37,REQ,37,26,2024-07-05 01:00:00,Service Request #37 | Category: New Connection | Status: Pending
+38,REQ,38,25,2024-05-24 03:00:00,Service Request #38 | Category: Water Quality | Status: Pending
+39,REQ,39,40,2024-07-20 19:00:00,Service Request #39 | Category: Billing Dispute | Status: Pending
+40,REQ,40,36,2024-11-05 00:00:00,Service Request #40 | Category: Billing Dispute | Status: Pending
+41,REQ,41,3,2024-06-19 23:00:00,Service Request #41 | Category: New Connection | Status: Pending
+42,REQ,42,30,2024-03-12 18:00:00,Service Request #42 | Category: Power Outage | Status: Pending
+43,REQ,43,11,2024-06-03 02:00:00,Service Request #43 | Category: New Connection | Status: Pending
+44,REQ,44,33,2024-12-29 02:00:00,Service Request #44 | Category: Document Check | Status: Pending
+45,REQ,45,31,2024-12-10 11:00:00,Service Request #45 | Category: Document Check | Status: Pending
+46,REQ,46,38,2024-12-19 04:00:00,Service Request #46 | Category: Emergency | Status: Pending
+47,REQ,47,31,2024-10-22 15:00:00,Service Request #47 | Category: Emergency | Status: Pending
+48,REQ,48,38,2025-01-05 03:00:00,Service Request #48 | Category: Low Pressure | Status: Pending
+49,REQ,49,10,2024-10-21 06:00:00,Service Request #49 | Category: Document Check | Status: Pending
+50,REQ,50,2,2024-07-31 06:00:00,Service Request #50 | Category: Low Pressure | Status: Pending
+51,REQ,51,27,2025-01-12 07:00:00,Service Request #51 | Category: Water Quality | Status: Pending
+52,REQ,52,34,2024-09-02 00:00:00,Service Request #52 | Category: New Connection | Status: Pending
+53,REQ,53,12,2024-10-06 19:00:00,Service Request #53 | Category: Low Pressure | Status: Pending
+54,REQ,54,40,2024-05-23 01:00:00,Service Request #54 | Category: Low Pressure | Status: Pending
+55,REQ,55,15,2024-04-17 06:00:00,Service Request #55 | Category: Emergency | Status: Pending
+56,REQ,56,31,2024-05-20 17:00:00,Service Request #56 | Category: Billing Dispute | Status: Pending
+57,REQ,57,44,2024-06-25 12:00:00,Service Request #57 | Category: Water Quality | Status: Pending
+58,REQ,58,3,2024-06-26 22:00:00,Service Request #58 | Category: Emergency | Status: Pending
+59,REQ,59,17,2024-10-02 16:00:00,Service Request #59 | Category: Drain Issue | Status: Pending
+60,REQ,60,45,2025-01-15 02:00:00,Service Request #60 | Category: Emergency | Status: Pending
+61,REQ,61,16,2024-04-26 04:00:00,Service Request #61 | Category: New Connection | Status: Pending
+62,REQ,62,7,2024-02-22 05:00:00,Service Request #62 | Category: New Connection | Status: Pending
+63,REQ,63,1,2024-07-28 04:00:00,Service Request #63 | Category: Water Quality | Status: Pending
+64,REQ,64,31,2024-06-13 17:00:00,Service Request #64 | Category: Illegal Dumping | Status: Pending
+65,REQ,65,4,2024-10-20 15:00:00,Service Request #65 | Category: Subsidy | Status: Pending
+66,REQ,66,59,2024-01-19 20:00:00,Service Request #66 | Category: Subsidy | Status: Pending
+67,REQ,67,12,2024-01-20 08:00:00,Service Request #67 | Category: Subsidy | Status: Pending
+68,REQ,68,39,2024-05-25 22:00:00,Service Request #68 | Category: Billing Dispute | Status: Pending
+69,REQ,69,34,2024-09-15 22:00:00,Service Request #69 | Category: Low Pressure | Status: Pending
+70,REQ,70,52,2024-08-23 04:00:00,Service Request #70 | Category: Billing Dispute | Status: Pending
+71,REQ,71,46,2024-06-01 02:00:00,Service Request #71 | Category: Power Outage | Status: Pending
+72,REQ,72,49,2024-07-26 21:00:00,Service Request #72 | Category: New Connection | Status: Pending
+73,REQ,73,21,2024-04-04 12:00:00,Service Request #73 | Category: Billing Dispute | Status: Pending
+74,REQ,74,21,2024-07-15 15:00:00,Service Request #74 | Category: Subsidy | Status: Pending
+75,REQ,75,49,2024-10-26 07:00:00,Service Request #75 | Category: Emergency | Status: Pending
+76,REQ,76,1,2024-04-30 09:00:00,Service Request #76 | Category: Emergency | Status: Pending
+77,REQ,77,30,2024-09-15 06:00:00,Service Request #77 | Category: Emergency | Status: Pending
+78,REQ,78,45,2024-07-08 03:00:00,Service Request #78 | Category: Billing Dispute | Status: Pending
+79,REQ,79,9,2024-11-06 19:00:00,Service Request #79 | Category: Low Pressure | Status: Pending
+80,REQ,80,45,2024-12-06 14:00:00,Service Request #80 | Category: Water Quality | Status: Pending
+81,REQ,81,56,2024-09-28 06:00:00,Service Request #81 | Category: General Query | Status: Pending
+82,REQ,82,5,2024-10-08 00:00:00,Service Request #82 | Category: Subsidy | Status: Pending
+83,REQ,83,35,2024-08-14 11:00:00,Service Request #83 | Category: Power Outage | Status: Pending
+84,REQ,84,14,2024-09-18 22:00:00,Service Request #84 | Category: Drain Issue | Status: Pending
+85,REQ,85,9,2024-01-31 01:00:00,Service Request #85 | Category: Water Quality | Status: Pending
+86,REQ,86,44,2024-07-21 16:00:00,Service Request #86 | Category: General Query | Status: Pending
+87,REQ,87,48,2024-08-04 19:00:00,Service Request #87 | Category: New Connection | Status: Pending
+88,REQ,88,4,2024-01-17 17:00:00,Service Request #88 | Category: Subsidy | Status: Pending
+89,REQ,89,50,2024-11-26 21:00:00,Service Request #89 | Category: Power Outage | Status: Pending
+90,REQ,90,29,2024-07-11 10:00:00,Service Request #90 | Category: Document Check | Status: Pending
+91,REQ,91,9,2024-04-02 01:00:00,Service Request #91 | Category: Illegal Dumping | Status: Pending
+92,REQ,92,9,2025-01-22 08:00:00,Service Request #92 | Category: Drain Issue | Status: Pending
+93,REQ,93,30,2024-09-29 20:00:00,Service Request #93 | Category: Illegal Dumping | Status: Pending
+94,REQ,94,30,2025-01-06 11:00:00,Service Request #94 | Category: Billing Dispute | Status: Pending
+95,REQ,95,52,2024-05-03 14:00:00,Service Request #95 | Category: Illegal Dumping | Status: Pending
+96,REQ,96,7,2024-12-11 06:00:00,Service Request #96 | Category: Missed Collection | Status: Pending
+97,REQ,97,16,2024-04-30 01:00:00,Service Request #97 | Category: Drain Issue | Status: Pending
+98,REQ,98,49,2024-09-14 17:00:00,Service Request #98 | Category: Document Check | Status: Pending
+99,REQ,99,21,2024-06-13 15:00:00,Service Request #99 | Category: Missed Collection | Status: Pending
+100,REQ,100,43,2024-05-20 09:00:00,Service Request #100 | Category: Water Quality | Status: Pending
+101,REQ,101,38,2024-11-17 05:00:00,Service Request #101 | Category: Subsidy | Status: Pending
+102,REQ,102,32,2024-12-09 20:00:00,Service Request #102 | Category: New Connection | Status: Pending
+103,REQ,103,21,2024-06-02 20:00:00,Service Request #103 | Category: Drain Issue | Status: Pending
+104,REQ,104,49,2024-06-03 06:00:00,Service Request #104 | Category: Water Quality | Status: Pending
+105,REQ,105,52,2024-07-30 21:00:00,Service Request #105 | Category: Low Pressure | Status: Pending
+106,REQ,106,9,2024-06-19 04:00:00,Service Request #106 | Category: New Connection | Status: Pending
+107,REQ,107,60,2024-10-02 07:00:00,Service Request #107 | Category: Low Pressure | Status: Pending
+108,REQ,108,18,2024-01-21 10:00:00,Service Request #108 | Category: New Connection | Status: Pending
+109,REQ,109,47,2024-04-16 18:00:00,Service Request #109 | Category: Illegal Dumping | Status: Pending
+110,REQ,110,14,2024-03-02 07:00:00,Service Request #110 | Category: Subsidy | Status: Pending
+111,REQ,111,59,2024-04-14 20:00:00,Service Request #111 | Category: New Connection | Status: Pending
+112,REQ,112,21,2024-10-01 04:00:00,Service Request #112 | Category: General Query | Status: Pending
+113,REQ,113,20,2024-08-26 11:00:00,Service Request #113 | Category: Emergency | Status: Pending
+114,REQ,114,49,2024-07-08 18:00:00,Service Request #114 | Category: Document Check | Status: Pending
+115,REQ,115,3,2024-03-15 08:00:00,Service Request #115 | Category: Missed Collection | Status: Pending
+116,REQ,116,60,2024-05-31 12:00:00,Service Request #116 | Category: Missed Collection | Status: Pending
+117,REQ,117,15,2024-09-13 01:00:00,Service Request #117 | Category: New Connection | Status: Pending
+118,REQ,118,17,2024-11-25 07:00:00,Service Request #118 | Category: General Query | Status: Pending
+119,REQ,119,11,2024-03-13 07:00:00,Service Request #119 | Category: Drain Issue | Status: Pending
+120,REQ,120,12,2024-02-01 00:00:00,Service Request #120 | Category: Subsidy | Status: Pending
+121,CMP,1,53,2024-04-28 10:00:00,Complaint #1 | Dept ID: 1 | Status: Open
+122,CMP,2,1,2024-11-13 04:00:00,Complaint #2 | Dept ID: 2 | Status: Open
+123,CMP,3,60,2024-01-05 01:00:00,Complaint #3 | Dept ID: 5 | Status: Open
+124,CMP,4,1,2024-05-26 08:00:00,Complaint #4 | Dept ID: 1 | Status: Open
+125,CMP,5,45,2024-09-25 12:00:00,Complaint #5 | Dept ID: 4 | Status: Open
+126,CMP,6,13,2024-05-16 20:00:00,Complaint #6 | Dept ID: 5 | Status: Open
+127,CMP,7,24,2024-04-25 17:00:00,Complaint #7 | Dept ID: 4 | Status: Open
+128,CMP,8,55,2024-07-13 01:00:00,Complaint #8 | Dept ID: 1 | Status: Open
+129,CMP,9,4,2024-11-26 18:00:00,Complaint #9 | Dept ID: 1 | Status: Open
+130,CMP,10,55,2024-04-19 06:00:00,Complaint #10 | Dept ID: 1 | Status: Open
+131,CMP,11,31,2024-05-24 01:00:00,Complaint #11 | Dept ID: 3 | Status: Open
+132,CMP,12,43,2024-01-09 14:00:00,Complaint #12 | Dept ID: 1 | Status: Open
+133,CMP,13,10,2024-05-04 02:00:00,Complaint #13 | Dept ID: 4 | Status: Open
+134,CMP,14,44,2024-03-13 06:00:00,Complaint #14 | Dept ID: 5 | Status: Open
+135,CMP,15,33,2024-02-08 18:00:00,Complaint #15 | Dept ID: 3 | Status: Open
+136,CMP,16,50,2024-01-17 04:00:00,Complaint #16 | Dept ID: 5 | Status: Open
+137,CMP,17,51,2024-07-11 21:00:00,Complaint #17 | Dept ID: 4 | Status: Open
+138,CMP,18,44,2024-05-31 15:00:00,Complaint #18 | Dept ID: 5 | Status: Open
+139,CMP,19,6,2024-03-20 07:00:00,Complaint #19 | Dept ID: 3 | Status: Open
+140,CMP,20,21,2024-08-15 19:00:00,Complaint #20 | Dept ID: 3 | Status: Open
+141,CMP,21,7,2024-10-13 01:00:00,Complaint #21 | Dept ID: 2 | Status: Open
+142,CMP,22,27,2024-02-18 03:00:00,Complaint #22 | Dept ID: 1 | Status: Open
+143,CMP,23,51,2024-07-17 10:00:00,Complaint #23 | Dept ID: 3 | Status: Open
+144,CMP,24,58,2024-07-13 13:00:00,Complaint #24 | Dept ID: 2 | Status: Open
+145,CMP,25,20,2024-08-10 16:00:00,Complaint #25 | Dept ID: 3 | Status: Open
+146,CMP,26,20,2025-01-05 04:00:00,Complaint #26 | Dept ID: 4 | Status: Open
+147,CMP,27,39,2024-06-04 08:00:00,Complaint #27 | Dept ID: 5 | Status: Open
+148,CMP,28,22,2024-08-13 18:00:00,Complaint #28 | Dept ID: 5 | Status: Open
+149,CMP,29,53,2024-12-21 14:00:00,Complaint #29 | Dept ID: 5 | Status: Open
+150,CMP,30,21,2025-01-12 06:00:00,Complaint #30 | Dept ID: 2 | Status: Open
+151,CMP,31,32,2024-07-20 19:00:00,Complaint #31 | Dept ID: 5 | Status: Open
+152,CMP,32,60,2024-04-03 05:00:00,Complaint #32 | Dept ID: 5 | Status: Open
+153,CMP,33,47,2024-12-20 10:00:00,Complaint #33 | Dept ID: 4 | Status: Open
+154,CMP,34,44,2024-05-10 05:00:00,Complaint #34 | Dept ID: 4 | Status: Open
+155,CMP,35,28,2024-09-03 02:00:00,Complaint #35 | Dept ID: 4 | Status: Open
+156,CMP,36,35,2024-12-26 01:00:00,Complaint #36 | Dept ID: 5 | Status: Open
+157,CMP,37,59,2024-12-06 19:00:00,Complaint #37 | Dept ID: 1 | Status: Open
+158,CMP,38,40,2024-11-27 20:00:00,Complaint #38 | Dept ID: 1 | Status: Open
+159,CMP,39,51,2024-04-24 00:00:00,Complaint #39 | Dept ID: 4 | Status: Open
+160,CMP,40,36,2024-07-19 22:00:00,Complaint #40 | Dept ID: 5 | Status: Open
+161,CMP,41,38,2024-09-04 11:00:00,Complaint #41 | Dept ID: 5 | Status: Open
+162,CMP,42,27,2024-03-13 19:00:00,Complaint #42 | Dept ID: 1 | Status: Open
+163,CMP,43,30,2024-02-19 22:00:00,Complaint #43 | Dept ID: 2 | Status: Open
+164,CMP,44,21,2024-02-28 08:00:00,Complaint #44 | Dept ID: 1 | Status: Open
+165,CMP,45,42,2024-05-05 00:00:00,Complaint #45 | Dept ID: 1 | Status: Open
+166,CMP,46,36,2024-04-28 20:00:00,Complaint #46 | Dept ID: 2 | Status: Open
+167,CMP,47,12,2024-04-11 22:00:00,Complaint #47 | Dept ID: 4 | Status: Open
+168,CMP,48,28,2024-05-23 06:00:00,Complaint #48 | Dept ID: 4 | Status: Open
+169,CMP,49,7,2024-08-22 11:00:00,Complaint #49 | Dept ID: 5 | Status: Open
+170,CMP,50,43,2024-11-01 20:00:00,Complaint #50 | Dept ID: 4 | Status: Open
+171,CMP,51,26,2024-11-12 13:00:00,Complaint #51 | Dept ID: 5 | Status: Open
+172,CMP,52,46,2024-03-09 18:00:00,Complaint #52 | Dept ID: 3 | Status: Open
+173,CMP,53,20,2024-09-18 20:00:00,Complaint #53 | Dept ID: 1 | Status: Open
+174,CMP,54,39,2024-09-07 04:00:00,Complaint #54 | Dept ID: 2 | Status: Open
+175,CMP,55,45,2024-03-12 13:00:00,Complaint #55 | Dept ID: 2 | Status: Open
+176,CMP,56,54,2024-01-05 23:00:00,Complaint #56 | Dept ID: 4 | Status: Open
+177,CMP,57,13,2024-07-29 05:00:00,Complaint #57 | Dept ID: 4 | Status: Open
+178,CMP,58,46,2024-01-16 15:00:00,Complaint #58 | Dept ID: 4 | Status: Open
+179,CMP,59,3,2025-02-03 22:00:00,Complaint #59 | Dept ID: 3 | Status: Open
+180,CMP,60,50,2024-02-28 16:00:00,Complaint #60 | Dept ID: 4 | Status: Open
+181,CMP,61,24,2024-10-06 14:00:00,Complaint #61 | Dept ID: 5 | Status: Open
+182,CMP,62,48,2024-08-18 16:00:00,Complaint #62 | Dept ID: 2 | Status: Open
+183,CMP,63,53,2025-02-01 15:00:00,Complaint #63 | Dept ID: 1 | Status: Open
+184,CMP,64,48,2024-11-19 21:00:00,Complaint #64 | Dept ID: 5 | Status: Open
+185,CMP,65,9,2024-06-29 01:00:00,Complaint #65 | Dept ID: 2 | Status: Open
+186,CMP,66,35,2024-05-29 02:00:00,Complaint #66 | Dept ID: 2 | Status: Open
+187,CMP,67,55,2024-01-31 16:00:00,Complaint #67 | Dept ID: 5 | Status: Open
+188,CMP,68,9,2024-05-07 05:00:00,Complaint #68 | Dept ID: 2 | Status: Open
+189,CMP,69,32,2024-07-31 20:00:00,Complaint #69 | Dept ID: 2 | Status: Open
+190,CMP,70,41,2024-12-21 19:00:00,Complaint #70 | Dept ID: 1 | Status: Open
+191,CMP,71,21,2024-02-18 07:00:00,Complaint #71 | Dept ID: 5 | Status: Open
+192,CMP,72,43,2024-04-21 21:00:00,Complaint #72 | Dept ID: 3 | Status: Open
+193,CMP,73,18,2024-03-08 02:00:00,Complaint #73 | Dept ID: 3 | Status: Open
+194,CMP,74,51,2024-08-23 08:00:00,Complaint #74 | Dept ID: 3 | Status: Open
+195,CMP,75,60,2024-04-14 06:00:00,Complaint #75 | Dept ID: 2 | Status: Open
+196,CMP,76,57,2024-02-18 04:00:00,Complaint #76 | Dept ID: 3 | Status: Open
+197,CMP,77,6,2024-06-06 07:00:00,Complaint #77 | Dept ID: 3 | Status: Open
+198,CMP,78,28,2024-02-09 12:00:00,Complaint #78 | Dept ID: 1 | Status: Open
+199,CMP,79,15,2024-06-24 11:00:00,Complaint #79 | Dept ID: 5 | Status: Open
+200,CMP,80,45,2024-02-16 07:00:00,Complaint #80 | Dept ID: 2 | Status: Open
+201,CMP,81,7,2024-07-14 12:00:00,Complaint #81 | Dept ID: 3 | Status: Open
+202,CMP,82,10,2024-11-28 13:00:00,Complaint #82 | Dept ID: 1 | Status: Open
+203,CMP,83,47,2024-12-17 22:00:00,Complaint #83 | Dept ID: 2 | Status: Open
+204,CMP,84,6,2025-01-08 20:00:00,Complaint #84 | Dept ID: 1 | Status: Open
+205,CMP,85,21,2024-05-08 01:00:00,Complaint #85 | Dept ID: 2 | Status: Open
+206,CMP,86,39,2024-01-15 05:00:00,Complaint #86 | Dept ID: 5 | Status: Open
+207,CMP,87,34,2024-06-01 04:00:00,Complaint #87 | Dept ID: 5 | Status: Open
+208,CMP,88,51,2024-09-13 04:00:00,Complaint #88 | Dept ID: 2 | Status: Open
+209,CMP,89,5,2024-03-08 20:00:00,Complaint #89 | Dept ID: 5 | Status: Open
+210,CMP,90,27,2025-01-29 10:00:00,Complaint #90 | Dept ID: 3 | Status: Open

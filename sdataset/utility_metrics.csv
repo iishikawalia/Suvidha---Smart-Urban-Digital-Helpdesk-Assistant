@@ -1,0 +1,211 @@
+metric_id,district_id,utility_type,metric_year,metric_value,unit,source
+1,1,Municipal Waste Generated,2018,3612.83,metric_tons,Govt of Punjab Open Data
+2,1,Municipal Waste Generated,2019,3839.12,metric_tons,Govt of Punjab Open Data
+3,1,Municipal Waste Generated,2020,4139.32,metric_tons,Govt of Punjab Open Data
+4,1,Municipal Waste Generated,2021,4362.87,metric_tons,Govt of Punjab Open Data
+5,1,Municipal Waste Generated,2022,4598.36,metric_tons,Govt of Punjab Open Data
+6,1,Municipal Waste Generated,2023,4737.96,metric_tons,Govt of Punjab Open Data
+7,1,Municipal Waste Generated,2024,5120.53,metric_tons,Govt of Punjab Open Data
+8,1,Municipal Waste Treated,2018,3281.34,metric_tons,Govt of Punjab Open Data
+9,1,Municipal Waste Treated,2019,3470.81,metric_tons,Govt of Punjab Open Data
+10,1,Municipal Waste Treated,2020,3711.64,metric_tons,Govt of Punjab Open Data
+11,1,Municipal Waste Treated,2021,3873.82,metric_tons,Govt of Punjab Open Data
+12,1,Municipal Waste Treated,2022,4078.49,metric_tons,Govt of Punjab Open Data
+13,1,Municipal Waste Treated,2023,4290.36,metric_tons,Govt of Punjab Open Data
+14,1,Municipal Waste Treated,2024,4597.97,metric_tons,Govt of Punjab Open Data
+15,1,Electricity Connections,2018,71715.85,connections,Govt of Punjab Open Data
+16,1,Electricity Connections,2019,73248.51,connections,Govt of Punjab Open Data
+17,1,Electricity Connections,2020,74489.53,connections,Govt of Punjab Open Data
+18,1,Electricity Connections,2021,78477.47,connections,Govt of Punjab Open Data
+19,1,Electricity Connections,2022,83667.34,connections,Govt of Punjab Open Data
+20,1,Electricity Connections,2023,88811.48,connections,Govt of Punjab Open Data
+21,1,Electricity Connections,2024,91386.3,connections,Govt of Punjab Open Data
+22,2,Municipal Waste Generated,2018,5846.44,metric_tons,Govt of Punjab Open Data
+23,2,Municipal Waste Generated,2019,6292.43,metric_tons,Govt of Punjab Open Data
+24,2,Municipal Waste Generated,2020,6715.82,metric_tons,Govt of Punjab Open Data
+25,2,Municipal Waste Generated,2021,7198.21,metric_tons,Govt of Punjab Open Data
+26,2,Municipal Waste Generated,2022,7721.67,metric_tons,Govt of Punjab Open Data
+27,2,Municipal Waste Generated,2023,8331.8,metric_tons,Govt of Punjab Open Data
+28,2,Municipal Waste Generated,2024,8682.04,metric_tons,Govt of Punjab Open Data
+29,2,Municipal Waste Treated,2018,3049.43,metric_tons,Govt of Punjab Open Data
+30,2,Municipal Waste Treated,2019,3184.78,metric_tons,Govt of Punjab Open Data
+31,2,Municipal Waste Treated,2020,3367.19,metric_tons,Govt of Punjab Open Data
+32,2,Municipal Waste Treated,2021,3524.3,metric_tons,Govt of Punjab Open Data
+33,2,Municipal Waste Treated,2022,3693.51,metric_tons,Govt of Punjab Open Data
+34,2,Municipal Waste Treated,2023,4058.45,metric_tons,Govt of Punjab Open Data
+35,2,Municipal Waste Treated,2024,4418.58,metric_tons,Govt of Punjab Open Data
+36,2,Electricity Connections,2018,60967.21,connections,Govt of Punjab Open Data
+37,2,Electricity Connections,2019,62166.45,connections,Govt of Punjab Open Data
+38,2,Electricity Connections,2020,66471.45,connections,Govt of Punjab Open Data
+39,2,Electricity Connections,2021,69933.16,connections,Govt of Punjab Open Data
+40,2,Electricity Connections,2022,74601.89,connections,Govt of Punjab Open Data
+41,2,Electricity Connections,2023,78921.96,connections,Govt of Punjab Open Data
+42,2,Electricity Connections,2024,80715.86,connections,Govt of Punjab Open Data
+43,3,Municipal Waste Generated,2018,4201.41,metric_tons,Govt of Punjab Open Data
+44,3,Municipal Waste Generated,2019,4360.35,metric_tons,Govt of Punjab Open Data
+45,3,Municipal Waste Generated,2020,4630.14,metric_tons,Govt of Punjab Open Data
+46,3,Municipal Waste Generated,2021,4752.95,metric_tons,Govt of Punjab Open Data
+47,3,Municipal Waste Generated,2022,5059.12,metric_tons,Govt of Punjab Open Data
+48,3,Municipal Waste Generated,2023,5455.11,metric_tons,Govt of Punjab Open Data
+49,3,Municipal Waste Generated,2024,5882.07,metric_tons,Govt of Punjab Open Data
+50,3,Municipal Waste Treated,2018,4486.28,metric_tons,Govt of Punjab Open Data
+51,3,Municipal Waste Treated,2019,4934.3,metric_tons,Govt of Punjab Open Data
+52,3,Municipal Waste Treated,2020,5131.57,metric_tons,Govt of Punjab Open Data
+53,3,Municipal Waste Treated,2021,5524.51,metric_tons,Govt of Punjab Open Data
+54,3,Municipal Waste Treated,2022,6060.56,metric_tons,Govt of Punjab Open Data
+55,3,Municipal Waste Treated,2023,6666.71,metric_tons,Govt of Punjab Open Data
+56,3,Municipal Waste Treated,2024,7013.92,metric_tons,Govt of Punjab Open Data
+57,3,Electricity Connections,2018,72467.51,connections,Govt of Punjab Open Data
+58,3,Electricity Connections,2019,73741.21,connections,Govt of Punjab Open Data
+59,3,Electricity Connections,2020,77819.8,connections,Govt of Punjab Open Data
+60,3,Electricity Connections,2021,79660.31,connections,Govt of Punjab Open Data
+61,3,Electricity Connections,2022,85244.53,connections,Govt of Punjab Open Data
+62,3,Electricity Connections,2023,86887.72,connections,Govt of Punjab Open Data
+63,3,Electricity Connections,2024,92452.36,connections,Govt of Punjab Open Data
+64,4,Municipal Waste Generated,2018,6335.86,metric_tons,Govt of Punjab Open Data
+65,4,Municipal Waste Generated,2019,6708.18,metric_tons,Govt of Punjab Open Data
+66,4,Municipal Waste Generated,2020,7207.0,metric_tons,Govt of Punjab Open Data
+67,4,Municipal Waste Generated,2021,7543.11,metric_tons,Govt of Punjab Open Data
+68,4,Municipal Waste Generated,2022,7808.69,metric_tons,Govt of Punjab Open Data
+69,4,Municipal Waste Generated,2023,8075.92,metric_tons,Govt of Punjab Open Data
+70,4,Municipal Waste Generated,2024,8259.81,metric_tons,Govt of Punjab Open Data
+71,4,Municipal Waste Treated,2018,2359.28,metric_tons,Govt of Punjab Open Data
+72,4,Municipal Waste Treated,2019,2448.89,metric_tons,Govt of Punjab Open Data
+73,4,Municipal Waste Treated,2020,2602.38,metric_tons,Govt of Punjab Open Data
+74,4,Municipal Waste Treated,2021,2823.41,metric_tons,Govt of Punjab Open Data
+75,4,Municipal Waste Treated,2022,3106.08,metric_tons,Govt of Punjab Open Data
+76,4,Municipal Waste Treated,2023,3400.19,metric_tons,Govt of Punjab Open Data
+77,4,Municipal Waste Treated,2024,3636.69,metric_tons,Govt of Punjab Open Data
+78,4,Electricity Connections,2018,56840.96,connections,Govt of Punjab Open Data
+79,4,Electricity Connections,2019,57700.91,connections,Govt of Punjab Open Data
+80,4,Electricity Connections,2020,59935.1,connections,Govt of Punjab Open Data
+81,4,Electricity Connections,2021,63694.04,connections,Govt of Punjab Open Data
+82,4,Electricity Connections,2022,66841.83,connections,Govt of Punjab Open Data
+83,4,Electricity Connections,2023,70296.13,connections,Govt of Punjab Open Data
+84,4,Electricity Connections,2024,71628.23,connections,Govt of Punjab Open Data
+85,5,Municipal Waste Generated,2018,6883.05,metric_tons,Govt of Punjab Open Data
+86,5,Municipal Waste Generated,2019,7138.27,metric_tons,Govt of Punjab Open Data
+87,5,Municipal Waste Generated,2020,7413.66,metric_tons,Govt of Punjab Open Data
+88,5,Municipal Waste Generated,2021,7995.29,metric_tons,Govt of Punjab Open Data
+89,5,Municipal Waste Generated,2022,8180.58,metric_tons,Govt of Punjab Open Data
+90,5,Municipal Waste Generated,2023,8419.59,metric_tons,Govt of Punjab Open Data
+91,5,Municipal Waste Generated,2024,8774.51,metric_tons,Govt of Punjab Open Data
+92,5,Municipal Waste Treated,2018,3412.91,metric_tons,Govt of Punjab Open Data
+93,5,Municipal Waste Treated,2019,3739.05,metric_tons,Govt of Punjab Open Data
+94,5,Municipal Waste Treated,2020,3903.11,metric_tons,Govt of Punjab Open Data
+95,5,Municipal Waste Treated,2021,4199.89,metric_tons,Govt of Punjab Open Data
+96,5,Municipal Waste Treated,2022,4524.52,metric_tons,Govt of Punjab Open Data
+97,5,Municipal Waste Treated,2023,4836.22,metric_tons,Govt of Punjab Open Data
+98,5,Municipal Waste Treated,2024,5029.14,metric_tons,Govt of Punjab Open Data
+99,5,Electricity Connections,2018,41599.89,connections,Govt of Punjab Open Data
+100,5,Electricity Connections,2019,44275.62,connections,Govt of Punjab Open Data
+101,5,Electricity Connections,2020,45099.29,connections,Govt of Punjab Open Data
+102,5,Electricity Connections,2021,45781.12,connections,Govt of Punjab Open Data
+103,5,Electricity Connections,2022,46771.2,connections,Govt of Punjab Open Data
+104,5,Electricity Connections,2023,47737.26,connections,Govt of Punjab Open Data
+105,5,Electricity Connections,2024,50234.16,connections,Govt of Punjab Open Data
+106,6,Municipal Waste Generated,2018,6419.9,metric_tons,Govt of Punjab Open Data
+107,6,Municipal Waste Generated,2019,6645.95,metric_tons,Govt of Punjab Open Data
+108,6,Municipal Waste Generated,2020,6886.77,metric_tons,Govt of Punjab Open Data
+109,6,Municipal Waste Generated,2021,7117.24,metric_tons,Govt of Punjab Open Data
+110,6,Municipal Waste Generated,2022,7271.17,metric_tons,Govt of Punjab Open Data
+111,6,Municipal Waste Generated,2023,7667.6,metric_tons,Govt of Punjab Open Data
+112,6,Municipal Waste Generated,2024,8215.15,metric_tons,Govt of Punjab Open Data
+113,6,Municipal Waste Treated,2018,2965.99,metric_tons,Govt of Punjab Open Data
+114,6,Municipal Waste Treated,2019,3159.82,metric_tons,Govt of Punjab Open Data
+115,6,Municipal Waste Treated,2020,3339.33,metric_tons,Govt of Punjab Open Data
+116,6,Municipal Waste Treated,2021,3607.82,metric_tons,Govt of Punjab Open Data
+117,6,Municipal Waste Treated,2022,3883.58,metric_tons,Govt of Punjab Open Data
+118,6,Municipal Waste Treated,2023,4080.55,metric_tons,Govt of Punjab Open Data
+119,6,Municipal Waste Treated,2024,4241.95,metric_tons,Govt of Punjab Open Data
+120,6,Electricity Connections,2018,46672.46,connections,Govt of Punjab Open Data
+121,6,Electricity Connections,2019,47321.8,connections,Govt of Punjab Open Data
+122,6,Electricity Connections,2020,50229.78,connections,Govt of Punjab Open Data
+123,6,Electricity Connections,2021,51638.29,connections,Govt of Punjab Open Data
+124,6,Electricity Connections,2022,53373.44,connections,Govt of Punjab Open Data
+125,6,Electricity Connections,2023,55472.06,connections,Govt of Punjab Open Data
+126,6,Electricity Connections,2024,58248.38,connections,Govt of Punjab Open Data
+127,7,Municipal Waste Generated,2018,5676.5,metric_tons,Govt of Punjab Open Data
+128,7,Municipal Waste Generated,2019,5847.64,metric_tons,Govt of Punjab Open Data
+129,7,Municipal Waste Generated,2020,6282.03,metric_tons,Govt of Punjab Open Data
+130,7,Municipal Waste Generated,2021,6544.45,metric_tons,Govt of Punjab Open Data
+131,7,Municipal Waste Generated,2022,6849.32,metric_tons,Govt of Punjab Open Data
+132,7,Municipal Waste Generated,2023,7089.64,metric_tons,Govt of Punjab Open Data
+133,7,Municipal Waste Generated,2024,7428.52,metric_tons,Govt of Punjab Open Data
+134,7,Municipal Waste Treated,2018,2744.55,metric_tons,Govt of Punjab Open Data
+135,7,Municipal Waste Treated,2019,2859.43,metric_tons,Govt of Punjab Open Data
+136,7,Municipal Waste Treated,2020,3105.89,metric_tons,Govt of Punjab Open Data
+137,7,Municipal Waste Treated,2021,3356.7,metric_tons,Govt of Punjab Open Data
+138,7,Municipal Waste Treated,2022,3502.39,metric_tons,Govt of Punjab Open Data
+139,7,Municipal Waste Treated,2023,3712.43,metric_tons,Govt of Punjab Open Data
+140,7,Municipal Waste Treated,2024,3982.18,metric_tons,Govt of Punjab Open Data
+141,7,Electricity Connections,2018,58589.06,connections,Govt of Punjab Open Data
+142,7,Electricity Connections,2019,61128.59,connections,Govt of Punjab Open Data
+143,7,Electricity Connections,2020,64873.67,connections,Govt of Punjab Open Data
+144,7,Electricity Connections,2021,68757.56,connections,Govt of Punjab Open Data
+145,7,Electricity Connections,2022,71158.76,connections,Govt of Punjab Open Data
+146,7,Electricity Connections,2023,74162.8,connections,Govt of Punjab Open Data
+147,7,Electricity Connections,2024,78827.21,connections,Govt of Punjab Open Data
+148,8,Municipal Waste Generated,2018,7026.62,metric_tons,Govt of Punjab Open Data
+149,8,Municipal Waste Generated,2019,7367.44,metric_tons,Govt of Punjab Open Data
+150,8,Municipal Waste Generated,2020,7540.38,metric_tons,Govt of Punjab Open Data
+151,8,Municipal Waste Generated,2021,8108.74,metric_tons,Govt of Punjab Open Data
+152,8,Municipal Waste Generated,2022,8623.65,metric_tons,Govt of Punjab Open Data
+153,8,Municipal Waste Generated,2023,9055.98,metric_tons,Govt of Punjab Open Data
+154,8,Municipal Waste Generated,2024,9737.25,metric_tons,Govt of Punjab Open Data
+155,8,Municipal Waste Treated,2018,3726.08,metric_tons,Govt of Punjab Open Data
+156,8,Municipal Waste Treated,2019,4015.68,metric_tons,Govt of Punjab Open Data
+157,8,Municipal Waste Treated,2020,4198.88,metric_tons,Govt of Punjab Open Data
+158,8,Municipal Waste Treated,2021,4562.14,metric_tons,Govt of Punjab Open Data
+159,8,Municipal Waste Treated,2022,4785.68,metric_tons,Govt of Punjab Open Data
+160,8,Municipal Waste Treated,2023,5269.49,metric_tons,Govt of Punjab Open Data
+161,8,Municipal Waste Treated,2024,5798.09,metric_tons,Govt of Punjab Open Data
+162,8,Electricity Connections,2018,40047.44,connections,Govt of Punjab Open Data
+163,8,Electricity Connections,2019,41457.85,connections,Govt of Punjab Open Data
+164,8,Electricity Connections,2020,44379.33,connections,Govt of Punjab Open Data
+165,8,Electricity Connections,2021,45975.59,connections,Govt of Punjab Open Data
+166,8,Electricity Connections,2022,49241.22,connections,Govt of Punjab Open Data
+167,8,Electricity Connections,2023,51601.79,connections,Govt of Punjab Open Data
+168,8,Electricity Connections,2024,54741.68,connections,Govt of Punjab Open Data
+169,9,Municipal Waste Generated,2018,7143.22,metric_tons,Govt of Punjab Open Data
+170,9,Municipal Waste Generated,2019,7686.77,metric_tons,Govt of Punjab Open Data
+171,9,Municipal Waste Generated,2020,7861.42,metric_tons,Govt of Punjab Open Data
+172,9,Municipal Waste Generated,2021,8199.07,metric_tons,Govt of Punjab Open Data
+173,9,Municipal Waste Generated,2022,8556.01,metric_tons,Govt of Punjab Open Data
+174,9,Municipal Waste Generated,2023,8890.08,metric_tons,Govt of Punjab Open Data
+175,9,Municipal Waste Generated,2024,9209.24,metric_tons,Govt of Punjab Open Data
+176,9,Municipal Waste Treated,2018,4196.32,metric_tons,Govt of Punjab Open Data
+177,9,Municipal Waste Treated,2019,4567.26,metric_tons,Govt of Punjab Open Data
+178,9,Municipal Waste Treated,2020,4923.05,metric_tons,Govt of Punjab Open Data
+179,9,Municipal Waste Treated,2021,5274.79,metric_tons,Govt of Punjab Open Data
+180,9,Municipal Waste Treated,2022,5616.8,metric_tons,Govt of Punjab Open Data
+181,9,Municipal Waste Treated,2023,5979.13,metric_tons,Govt of Punjab Open Data
+182,9,Municipal Waste Treated,2024,6262.62,metric_tons,Govt of Punjab Open Data
+183,9,Electricity Connections,2018,65335.1,connections,Govt of Punjab Open Data
+184,9,Electricity Connections,2019,69740.91,connections,Govt of Punjab Open Data
+185,9,Electricity Connections,2020,74379.77,connections,Govt of Punjab Open Data
+186,9,Electricity Connections,2021,77645.89,connections,Govt of Punjab Open Data
+187,9,Electricity Connections,2022,78818.48,connections,Govt of Punjab Open Data
+188,9,Electricity Connections,2023,80919.17,connections,Govt of Punjab Open Data
+189,9,Electricity Connections,2024,84335.86,connections,Govt of Punjab Open Data
+190,10,Municipal Waste Generated,2018,5143.56,metric_tons,Govt of Punjab Open Data
+191,10,Municipal Waste Generated,2019,5362.84,metric_tons,Govt of Punjab Open Data
+192,10,Municipal Waste Generated,2020,5626.11,metric_tons,Govt of Punjab Open Data
+193,10,Municipal Waste Generated,2021,5946.04,metric_tons,Govt of Punjab Open Data
+194,10,Municipal Waste Generated,2022,6070.07,metric_tons,Govt of Punjab Open Data
+195,10,Municipal Waste Generated,2023,6287.69,metric_tons,Govt of Punjab Open Data
+196,10,Municipal Waste Generated,2024,6461.0,metric_tons,Govt of Punjab Open Data
+197,10,Municipal Waste Treated,2018,3764.79,metric_tons,Govt of Punjab Open Data
+198,10,Municipal Waste Treated,2019,3916.85,metric_tons,Govt of Punjab Open Data
+199,10,Municipal Waste Treated,2020,4288.99,metric_tons,Govt of Punjab Open Data
+200,10,Municipal Waste Treated,2021,4542.82,metric_tons,Govt of Punjab Open Data
+201,10,Municipal Waste Treated,2022,4784.28,metric_tons,Govt of Punjab Open Data
+202,10,Municipal Waste Treated,2023,5194.66,metric_tons,Govt of Punjab Open Data
+203,10,Municipal Waste Treated,2024,5698.64,metric_tons,Govt of Punjab Open Data
+204,10,Electricity Connections,2018,35809.32,connections,Govt of Punjab Open Data
+205,10,Electricity Connections,2019,37950.89,connections,Govt of Punjab Open Data
+206,10,Electricity Connections,2020,39002.53,connections,Govt of Punjab Open Data
+207,10,Electricity Connections,2021,40028.05,connections,Govt of Punjab Open Data
+208,10,Electricity Connections,2022,41608.24,connections,Govt of Punjab Open Data
+209,10,Electricity Connections,2023,43781.93,connections,Govt of Punjab Open Data
+210,10,Electricity Connections,2024,44435.54,connections,Govt of Punjab Open Data

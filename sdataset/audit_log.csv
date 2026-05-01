@@ -1,0 +1,365 @@
+log_id,entity_type,entity_id,old_status,new_status,changed_by,changed_at,remarks
+1,REQUEST,1,,Pending,SP_Submit_Request,2024-11-10 21:00:00,Initial submission
+2,REQUEST,1,Pending,Rejected,SP_Update_Status,2024-11-14 21:00:00,Status updated
+3,REQUEST,2,,Pending,SP_Submit_Request,2024-09-20 07:00:00,Initial submission
+4,REQUEST,2,Pending,Resolved,SP_Update_Status,2024-09-30 07:00:00,Status updated
+5,REQUEST,3,,Pending,SP_Submit_Request,2025-02-04 22:00:00,Initial submission
+6,REQUEST,3,Pending,Resolved,SP_Update_Status,2025-02-04 22:00:00,Status updated
+7,REQUEST,4,,Pending,SP_Submit_Request,2024-07-04 20:00:00,Initial submission
+8,REQUEST,4,Pending,Resolved,SP_Update_Status,2024-07-13 20:00:00,Status updated
+9,REQUEST,5,,Pending,SP_Submit_Request,2024-07-09 22:00:00,Initial submission
+10,REQUEST,5,Pending,Resolved,SP_Update_Status,2024-07-10 22:00:00,Status updated
+11,REQUEST,6,,Pending,SP_Submit_Request,2024-11-28 16:00:00,Initial submission
+12,REQUEST,6,Pending,In Progress,SP_Update_Status,2024-12-01 16:00:00,Status updated
+13,REQUEST,7,,Pending,SP_Submit_Request,2024-09-22 20:00:00,Initial submission
+14,REQUEST,7,Pending,Resolved,SP_Update_Status,2024-09-30 20:00:00,Status updated
+15,REQUEST,8,,Pending,SP_Submit_Request,2024-04-20 03:00:00,Initial submission
+16,REQUEST,9,,Pending,SP_Submit_Request,2024-03-03 12:00:00,Initial submission
+17,REQUEST,9,Pending,Escalated,SP_Update_Status,2024-03-04 12:00:00,Status updated
+18,REQUEST,10,,Pending,SP_Submit_Request,2024-02-15 05:00:00,Initial submission
+19,REQUEST,10,Pending,Rejected,SP_Update_Status,2024-02-20 05:00:00,Status updated
+20,REQUEST,11,,Pending,SP_Submit_Request,2024-06-02 13:00:00,Initial submission
+21,REQUEST,11,Pending,In Progress,SP_Update_Status,2024-06-12 13:00:00,Status updated
+22,REQUEST,12,,Pending,SP_Submit_Request,2024-03-03 14:00:00,Initial submission
+23,REQUEST,12,Pending,In Progress,SP_Update_Status,2024-03-05 14:00:00,Status updated
+24,REQUEST,13,,Pending,SP_Submit_Request,2024-10-11 02:00:00,Initial submission
+25,REQUEST,13,Pending,In Progress,SP_Update_Status,2024-10-16 02:00:00,Status updated
+26,REQUEST,14,,Pending,SP_Submit_Request,2024-11-09 10:00:00,Initial submission
+27,REQUEST,14,Pending,Escalated,SP_Update_Status,2024-11-10 10:00:00,Status updated
+28,REQUEST,15,,Pending,SP_Submit_Request,2024-09-03 00:00:00,Initial submission
+29,REQUEST,15,Pending,Escalated,SP_Update_Status,2024-09-09 00:00:00,Status updated
+30,REQUEST,16,,Pending,SP_Submit_Request,2024-03-05 18:00:00,Initial submission
+31,REQUEST,16,Pending,Resolved,SP_Update_Status,2024-03-15 18:00:00,Status updated
+32,REQUEST,17,,Pending,SP_Submit_Request,2024-03-07 01:00:00,Initial submission
+33,REQUEST,17,Pending,Resolved,SP_Update_Status,2024-03-17 01:00:00,Status updated
+34,REQUEST,18,,Pending,SP_Submit_Request,2024-09-14 09:00:00,Initial submission
+35,REQUEST,18,Pending,Escalated,SP_Update_Status,2024-09-15 09:00:00,Status updated
+36,REQUEST,19,,Pending,SP_Submit_Request,2024-06-15 06:00:00,Initial submission
+37,REQUEST,19,Pending,In Progress,SP_Update_Status,2024-06-18 06:00:00,Status updated
+38,REQUEST,20,,Pending,SP_Submit_Request,2024-05-08 14:00:00,Initial submission
+39,REQUEST,20,Pending,Rejected,SP_Update_Status,2024-05-18 14:00:00,Status updated
+40,REQUEST,21,,Pending,SP_Submit_Request,2024-09-30 10:00:00,Initial submission
+41,REQUEST,21,Pending,Resolved,SP_Update_Status,2024-10-08 10:00:00,Status updated
+42,REQUEST,22,,Pending,SP_Submit_Request,2024-11-16 07:00:00,Initial submission
+43,REQUEST,23,,Pending,SP_Submit_Request,2024-01-15 10:00:00,Initial submission
+44,REQUEST,23,Pending,Rejected,SP_Update_Status,2024-01-15 10:00:00,Status updated
+45,REQUEST,24,,Pending,SP_Submit_Request,2024-08-02 03:00:00,Initial submission
+46,REQUEST,25,,Pending,SP_Submit_Request,2024-05-29 04:00:00,Initial submission
+47,REQUEST,25,Pending,Rejected,SP_Update_Status,2024-06-02 04:00:00,Status updated
+48,REQUEST,26,,Pending,SP_Submit_Request,2024-06-01 22:00:00,Initial submission
+49,REQUEST,26,Pending,Resolved,SP_Update_Status,2024-06-02 22:00:00,Status updated
+50,REQUEST,27,,Pending,SP_Submit_Request,2024-04-14 18:00:00,Initial submission
+51,REQUEST,27,Pending,In Progress,SP_Update_Status,2024-04-23 18:00:00,Status updated
+52,REQUEST,28,,Pending,SP_Submit_Request,2025-01-10 19:00:00,Initial submission
+53,REQUEST,28,Pending,Rejected,SP_Update_Status,2025-01-16 19:00:00,Status updated
+54,REQUEST,29,,Pending,SP_Submit_Request,2024-06-12 15:00:00,Initial submission
+55,REQUEST,29,Pending,In Progress,SP_Update_Status,2024-06-19 15:00:00,Status updated
+56,REQUEST,30,,Pending,SP_Submit_Request,2024-02-19 09:00:00,Initial submission
+57,REQUEST,30,Pending,In Progress,SP_Update_Status,2024-02-23 09:00:00,Status updated
+58,REQUEST,31,,Pending,SP_Submit_Request,2024-03-22 18:00:00,Initial submission
+59,REQUEST,31,Pending,Resolved,SP_Update_Status,2024-03-31 18:00:00,Status updated
+60,REQUEST,32,,Pending,SP_Submit_Request,2024-08-27 23:00:00,Initial submission
+61,REQUEST,33,,Pending,SP_Submit_Request,2024-09-15 22:00:00,Initial submission
+62,REQUEST,34,,Pending,SP_Submit_Request,2024-05-24 23:00:00,Initial submission
+63,REQUEST,34,Pending,In Progress,SP_Update_Status,2024-06-02 23:00:00,Status updated
+64,REQUEST,35,,Pending,SP_Submit_Request,2024-05-27 01:00:00,Initial submission
+65,REQUEST,35,Pending,Resolved,SP_Update_Status,2024-05-27 01:00:00,Status updated
+66,REQUEST,36,,Pending,SP_Submit_Request,2024-07-06 20:00:00,Initial submission
+67,REQUEST,36,Pending,Rejected,SP_Update_Status,2024-07-11 20:00:00,Status updated
+68,REQUEST,37,,Pending,SP_Submit_Request,2024-07-05 01:00:00,Initial submission
+69,REQUEST,37,Pending,Resolved,SP_Update_Status,2024-07-09 01:00:00,Status updated
+70,REQUEST,38,,Pending,SP_Submit_Request,2024-05-24 03:00:00,Initial submission
+71,REQUEST,38,Pending,In Progress,SP_Update_Status,2024-06-03 03:00:00,Status updated
+72,REQUEST,39,,Pending,SP_Submit_Request,2024-07-20 19:00:00,Initial submission
+73,REQUEST,40,,Pending,SP_Submit_Request,2024-11-05 00:00:00,Initial submission
+74,REQUEST,40,Pending,Resolved,SP_Update_Status,2024-11-11 00:00:00,Status updated
+75,REQUEST,41,,Pending,SP_Submit_Request,2024-06-19 23:00:00,Initial submission
+76,REQUEST,42,,Pending,SP_Submit_Request,2024-03-12 18:00:00,Initial submission
+77,REQUEST,42,Pending,Resolved,SP_Update_Status,2024-03-21 18:00:00,Status updated
+78,REQUEST,43,,Pending,SP_Submit_Request,2024-06-03 02:00:00,Initial submission
+79,REQUEST,43,Pending,Escalated,SP_Update_Status,2024-06-08 02:00:00,Status updated
+80,REQUEST,44,,Pending,SP_Submit_Request,2024-12-29 02:00:00,Initial submission
+81,REQUEST,44,Pending,In Progress,SP_Update_Status,2025-01-02 02:00:00,Status updated
+82,REQUEST,45,,Pending,SP_Submit_Request,2024-12-10 11:00:00,Initial submission
+83,REQUEST,46,,Pending,SP_Submit_Request,2024-12-19 04:00:00,Initial submission
+84,REQUEST,46,Pending,Resolved,SP_Update_Status,2024-12-19 04:00:00,Status updated
+85,REQUEST,47,,Pending,SP_Submit_Request,2024-10-22 15:00:00,Initial submission
+86,REQUEST,47,Pending,Escalated,SP_Update_Status,2024-10-22 15:00:00,Status updated
+87,REQUEST,48,,Pending,SP_Submit_Request,2025-01-05 03:00:00,Initial submission
+88,REQUEST,49,,Pending,SP_Submit_Request,2024-10-21 06:00:00,Initial submission
+89,REQUEST,49,Pending,Resolved,SP_Update_Status,2024-10-22 06:00:00,Status updated
+90,REQUEST,50,,Pending,SP_Submit_Request,2024-07-31 06:00:00,Initial submission
+91,REQUEST,50,Pending,In Progress,SP_Update_Status,2024-08-03 06:00:00,Status updated
+92,REQUEST,51,,Pending,SP_Submit_Request,2025-01-12 07:00:00,Initial submission
+93,REQUEST,51,Pending,Resolved,SP_Update_Status,2025-01-12 07:00:00,Status updated
+94,REQUEST,52,,Pending,SP_Submit_Request,2024-09-02 00:00:00,Initial submission
+95,REQUEST,52,Pending,Resolved,SP_Update_Status,2024-09-08 00:00:00,Status updated
+96,REQUEST,53,,Pending,SP_Submit_Request,2024-10-06 19:00:00,Initial submission
+97,REQUEST,53,Pending,Rejected,SP_Update_Status,2024-10-16 19:00:00,Status updated
+98,REQUEST,54,,Pending,SP_Submit_Request,2024-05-23 01:00:00,Initial submission
+99,REQUEST,55,,Pending,SP_Submit_Request,2024-04-17 06:00:00,Initial submission
+100,REQUEST,55,Pending,Resolved,SP_Update_Status,2024-04-24 06:00:00,Status updated
+101,REQUEST,56,,Pending,SP_Submit_Request,2024-05-20 17:00:00,Initial submission
+102,REQUEST,56,Pending,Resolved,SP_Update_Status,2024-05-21 17:00:00,Status updated
+103,REQUEST,57,,Pending,SP_Submit_Request,2024-06-25 12:00:00,Initial submission
+104,REQUEST,57,Pending,In Progress,SP_Update_Status,2024-06-29 12:00:00,Status updated
+105,REQUEST,58,,Pending,SP_Submit_Request,2024-06-26 22:00:00,Initial submission
+106,REQUEST,58,Pending,Escalated,SP_Update_Status,2024-07-06 22:00:00,Status updated
+107,REQUEST,59,,Pending,SP_Submit_Request,2024-10-02 16:00:00,Initial submission
+108,REQUEST,59,Pending,In Progress,SP_Update_Status,2024-10-10 16:00:00,Status updated
+109,REQUEST,60,,Pending,SP_Submit_Request,2025-01-15 02:00:00,Initial submission
+110,REQUEST,61,,Pending,SP_Submit_Request,2024-04-26 04:00:00,Initial submission
+111,REQUEST,61,Pending,Resolved,SP_Update_Status,2024-04-29 04:00:00,Status updated
+112,REQUEST,62,,Pending,SP_Submit_Request,2024-02-22 05:00:00,Initial submission
+113,REQUEST,62,Pending,In Progress,SP_Update_Status,2024-02-24 05:00:00,Status updated
+114,REQUEST,63,,Pending,SP_Submit_Request,2024-07-28 04:00:00,Initial submission
+115,REQUEST,63,Pending,Escalated,SP_Update_Status,2024-08-04 04:00:00,Status updated
+116,REQUEST,64,,Pending,SP_Submit_Request,2024-06-13 17:00:00,Initial submission
+117,REQUEST,65,,Pending,SP_Submit_Request,2024-10-20 15:00:00,Initial submission
+118,REQUEST,65,Pending,Resolved,SP_Update_Status,2024-10-28 15:00:00,Status updated
+119,REQUEST,66,,Pending,SP_Submit_Request,2024-01-19 20:00:00,Initial submission
+120,REQUEST,67,,Pending,SP_Submit_Request,2024-01-20 08:00:00,Initial submission
+121,REQUEST,67,Pending,Resolved,SP_Update_Status,2024-01-24 08:00:00,Status updated
+122,REQUEST,68,,Pending,SP_Submit_Request,2024-05-25 22:00:00,Initial submission
+123,REQUEST,68,Pending,Rejected,SP_Update_Status,2024-06-04 22:00:00,Status updated
+124,REQUEST,69,,Pending,SP_Submit_Request,2024-09-15 22:00:00,Initial submission
+125,REQUEST,69,Pending,Rejected,SP_Update_Status,2024-09-19 22:00:00,Status updated
+126,REQUEST,70,,Pending,SP_Submit_Request,2024-08-23 04:00:00,Initial submission
+127,REQUEST,70,Pending,In Progress,SP_Update_Status,2024-08-27 04:00:00,Status updated
+128,REQUEST,71,,Pending,SP_Submit_Request,2024-06-01 02:00:00,Initial submission
+129,REQUEST,72,,Pending,SP_Submit_Request,2024-07-26 21:00:00,Initial submission
+130,REQUEST,73,,Pending,SP_Submit_Request,2024-04-04 12:00:00,Initial submission
+131,REQUEST,73,Pending,In Progress,SP_Update_Status,2024-04-11 12:00:00,Status updated
+132,REQUEST,74,,Pending,SP_Submit_Request,2024-07-15 15:00:00,Initial submission
+133,REQUEST,75,,Pending,SP_Submit_Request,2024-10-26 07:00:00,Initial submission
+134,REQUEST,75,Pending,Escalated,SP_Update_Status,2024-11-04 07:00:00,Status updated
+135,REQUEST,76,,Pending,SP_Submit_Request,2024-04-30 09:00:00,Initial submission
+136,REQUEST,76,Pending,Resolved,SP_Update_Status,2024-05-10 09:00:00,Status updated
+137,REQUEST,77,,Pending,SP_Submit_Request,2024-09-15 06:00:00,Initial submission
+138,REQUEST,78,,Pending,SP_Submit_Request,2024-07-08 03:00:00,Initial submission
+139,REQUEST,78,Pending,Resolved,SP_Update_Status,2024-07-11 03:00:00,Status updated
+140,REQUEST,79,,Pending,SP_Submit_Request,2024-11-06 19:00:00,Initial submission
+141,REQUEST,80,,Pending,SP_Submit_Request,2024-12-06 14:00:00,Initial submission
+142,REQUEST,80,Pending,Rejected,SP_Update_Status,2024-12-09 14:00:00,Status updated
+143,REQUEST,81,,Pending,SP_Submit_Request,2024-09-28 06:00:00,Initial submission
+144,REQUEST,82,,Pending,SP_Submit_Request,2024-10-08 00:00:00,Initial submission
+145,REQUEST,82,Pending,Resolved,SP_Update_Status,2024-10-11 00:00:00,Status updated
+146,REQUEST,83,,Pending,SP_Submit_Request,2024-08-14 11:00:00,Initial submission
+147,REQUEST,84,,Pending,SP_Submit_Request,2024-09-18 22:00:00,Initial submission
+148,REQUEST,84,Pending,Resolved,SP_Update_Status,2024-09-18 22:00:00,Status updated
+149,REQUEST,85,,Pending,SP_Submit_Request,2024-01-31 01:00:00,Initial submission
+150,REQUEST,85,Pending,In Progress,SP_Update_Status,2024-02-07 01:00:00,Status updated
+151,REQUEST,86,,Pending,SP_Submit_Request,2024-07-21 16:00:00,Initial submission
+152,REQUEST,86,Pending,In Progress,SP_Update_Status,2024-07-21 16:00:00,Status updated
+153,REQUEST,87,,Pending,SP_Submit_Request,2024-08-04 19:00:00,Initial submission
+154,REQUEST,87,Pending,Resolved,SP_Update_Status,2024-08-05 19:00:00,Status updated
+155,REQUEST,88,,Pending,SP_Submit_Request,2024-01-17 17:00:00,Initial submission
+156,REQUEST,88,Pending,Rejected,SP_Update_Status,2024-01-23 17:00:00,Status updated
+157,REQUEST,89,,Pending,SP_Submit_Request,2024-11-26 21:00:00,Initial submission
+158,REQUEST,89,Pending,Resolved,SP_Update_Status,2024-12-01 21:00:00,Status updated
+159,REQUEST,90,,Pending,SP_Submit_Request,2024-07-11 10:00:00,Initial submission
+160,REQUEST,90,Pending,Rejected,SP_Update_Status,2024-07-21 10:00:00,Status updated
+161,REQUEST,91,,Pending,SP_Submit_Request,2024-04-02 01:00:00,Initial submission
+162,REQUEST,91,Pending,Rejected,SP_Update_Status,2024-04-08 01:00:00,Status updated
+163,REQUEST,92,,Pending,SP_Submit_Request,2025-01-22 08:00:00,Initial submission
+164,REQUEST,92,Pending,Escalated,SP_Update_Status,2025-01-26 08:00:00,Status updated
+165,REQUEST,93,,Pending,SP_Submit_Request,2024-09-29 20:00:00,Initial submission
+166,REQUEST,93,Pending,Resolved,SP_Update_Status,2024-10-02 20:00:00,Status updated
+167,REQUEST,94,,Pending,SP_Submit_Request,2025-01-06 11:00:00,Initial submission
+168,REQUEST,95,,Pending,SP_Submit_Request,2024-05-03 14:00:00,Initial submission
+169,REQUEST,95,Pending,In Progress,SP_Update_Status,2024-05-04 14:00:00,Status updated
+170,REQUEST,96,,Pending,SP_Submit_Request,2024-12-11 06:00:00,Initial submission
+171,REQUEST,97,,Pending,SP_Submit_Request,2024-04-30 01:00:00,Initial submission
+172,REQUEST,98,,Pending,SP_Submit_Request,2024-09-14 17:00:00,Initial submission
+173,REQUEST,98,Pending,Resolved,SP_Update_Status,2024-09-17 17:00:00,Status updated
+174,REQUEST,99,,Pending,SP_Submit_Request,2024-06-13 15:00:00,Initial submission
+175,REQUEST,99,Pending,Resolved,SP_Update_Status,2024-06-17 15:00:00,Status updated
+176,REQUEST,100,,Pending,SP_Submit_Request,2024-05-20 09:00:00,Initial submission
+177,REQUEST,101,,Pending,SP_Submit_Request,2024-11-17 05:00:00,Initial submission
+178,REQUEST,101,Pending,Resolved,SP_Update_Status,2024-11-23 05:00:00,Status updated
+179,REQUEST,102,,Pending,SP_Submit_Request,2024-12-09 20:00:00,Initial submission
+180,REQUEST,102,Pending,Escalated,SP_Update_Status,2024-12-17 20:00:00,Status updated
+181,REQUEST,103,,Pending,SP_Submit_Request,2024-06-02 20:00:00,Initial submission
+182,REQUEST,103,Pending,In Progress,SP_Update_Status,2024-06-04 20:00:00,Status updated
+183,REQUEST,104,,Pending,SP_Submit_Request,2024-06-03 06:00:00,Initial submission
+184,REQUEST,104,Pending,In Progress,SP_Update_Status,2024-06-05 06:00:00,Status updated
+185,REQUEST,105,,Pending,SP_Submit_Request,2024-07-30 21:00:00,Initial submission
+186,REQUEST,105,Pending,Rejected,SP_Update_Status,2024-08-07 21:00:00,Status updated
+187,REQUEST,106,,Pending,SP_Submit_Request,2024-06-19 04:00:00,Initial submission
+188,REQUEST,107,,Pending,SP_Submit_Request,2024-10-02 07:00:00,Initial submission
+189,REQUEST,107,Pending,Resolved,SP_Update_Status,2024-10-05 07:00:00,Status updated
+190,REQUEST,108,,Pending,SP_Submit_Request,2024-01-21 10:00:00,Initial submission
+191,REQUEST,108,Pending,Resolved,SP_Update_Status,2024-01-24 10:00:00,Status updated
+192,REQUEST,109,,Pending,SP_Submit_Request,2024-04-16 18:00:00,Initial submission
+193,REQUEST,109,Pending,Resolved,SP_Update_Status,2024-04-20 18:00:00,Status updated
+194,REQUEST,110,,Pending,SP_Submit_Request,2024-03-02 07:00:00,Initial submission
+195,REQUEST,111,,Pending,SP_Submit_Request,2024-04-14 20:00:00,Initial submission
+196,REQUEST,111,Pending,Resolved,SP_Update_Status,2024-04-17 20:00:00,Status updated
+197,REQUEST,112,,Pending,SP_Submit_Request,2024-10-01 04:00:00,Initial submission
+198,REQUEST,113,,Pending,SP_Submit_Request,2024-08-26 11:00:00,Initial submission
+199,REQUEST,113,Pending,In Progress,SP_Update_Status,2024-09-02 11:00:00,Status updated
+200,REQUEST,114,,Pending,SP_Submit_Request,2024-07-08 18:00:00,Initial submission
+201,REQUEST,114,Pending,In Progress,SP_Update_Status,2024-07-14 18:00:00,Status updated
+202,REQUEST,115,,Pending,SP_Submit_Request,2024-03-15 08:00:00,Initial submission
+203,REQUEST,115,Pending,Rejected,SP_Update_Status,2024-03-19 08:00:00,Status updated
+204,REQUEST,116,,Pending,SP_Submit_Request,2024-05-31 12:00:00,Initial submission
+205,REQUEST,116,Pending,Resolved,SP_Update_Status,2024-06-03 12:00:00,Status updated
+206,REQUEST,117,,Pending,SP_Submit_Request,2024-09-13 01:00:00,Initial submission
+207,REQUEST,117,Pending,Resolved,SP_Update_Status,2024-09-23 01:00:00,Status updated
+208,REQUEST,118,,Pending,SP_Submit_Request,2024-11-25 07:00:00,Initial submission
+209,REQUEST,118,Pending,Resolved,SP_Update_Status,2024-12-02 07:00:00,Status updated
+210,REQUEST,119,,Pending,SP_Submit_Request,2024-03-13 07:00:00,Initial submission
+211,REQUEST,119,Pending,Resolved,SP_Update_Status,2024-03-21 07:00:00,Status updated
+212,REQUEST,120,,Pending,SP_Submit_Request,2024-02-01 00:00:00,Initial submission
+213,REQUEST,120,Pending,Rejected,SP_Update_Status,2024-02-01 00:00:00,Status updated
+214,COMPLAINT,1,,Open,SP_Submit_Complaint,2024-04-28 10:00:00,Initial complaint filed
+215,COMPLAINT,1,Open,Under Review,SP_Update_Status,2024-04-30 10:00:00,Status updated
+216,COMPLAINT,2,,Open,SP_Submit_Complaint,2024-11-13 04:00:00,Initial complaint filed
+217,COMPLAINT,2,Open,Under Review,SP_Update_Status,2024-11-23 04:00:00,Status updated
+218,COMPLAINT,3,,Open,SP_Submit_Complaint,2024-01-05 01:00:00,Initial complaint filed
+219,COMPLAINT,3,Open,Resolved,SP_Update_Status,2024-01-13 01:00:00,Status updated
+220,COMPLAINT,4,,Open,SP_Submit_Complaint,2024-05-26 08:00:00,Initial complaint filed
+221,COMPLAINT,4,Open,Resolved,SP_Update_Status,2024-06-03 08:00:00,Status updated
+222,COMPLAINT,5,,Open,SP_Submit_Complaint,2024-09-25 12:00:00,Initial complaint filed
+223,COMPLAINT,6,,Open,SP_Submit_Complaint,2024-05-16 20:00:00,Initial complaint filed
+224,COMPLAINT,7,,Open,SP_Submit_Complaint,2024-04-25 17:00:00,Initial complaint filed
+225,COMPLAINT,7,Open,Resolved,SP_Update_Status,2024-05-05 17:00:00,Status updated
+226,COMPLAINT,8,,Open,SP_Submit_Complaint,2024-07-13 01:00:00,Initial complaint filed
+227,COMPLAINT,9,,Open,SP_Submit_Complaint,2024-11-26 18:00:00,Initial complaint filed
+228,COMPLAINT,10,,Open,SP_Submit_Complaint,2024-04-19 06:00:00,Initial complaint filed
+229,COMPLAINT,10,Open,Escalated,SP_Update_Status,2024-04-28 06:00:00,Status updated
+230,COMPLAINT,11,,Open,SP_Submit_Complaint,2024-05-24 01:00:00,Initial complaint filed
+231,COMPLAINT,11,Open,Escalated,SP_Update_Status,2024-06-02 01:00:00,Status updated
+232,COMPLAINT,12,,Open,SP_Submit_Complaint,2024-01-09 14:00:00,Initial complaint filed
+233,COMPLAINT,12,Open,Escalated,SP_Update_Status,2024-01-18 14:00:00,Status updated
+234,COMPLAINT,13,,Open,SP_Submit_Complaint,2024-05-04 02:00:00,Initial complaint filed
+235,COMPLAINT,14,,Open,SP_Submit_Complaint,2024-03-13 06:00:00,Initial complaint filed
+236,COMPLAINT,14,Open,Under Review,SP_Update_Status,2024-03-14 06:00:00,Status updated
+237,COMPLAINT,15,,Open,SP_Submit_Complaint,2024-02-08 18:00:00,Initial complaint filed
+238,COMPLAINT,16,,Open,SP_Submit_Complaint,2024-01-17 04:00:00,Initial complaint filed
+239,COMPLAINT,16,Open,Under Review,SP_Update_Status,2024-01-21 04:00:00,Status updated
+240,COMPLAINT,17,,Open,SP_Submit_Complaint,2024-07-11 21:00:00,Initial complaint filed
+241,COMPLAINT,18,,Open,SP_Submit_Complaint,2024-05-31 15:00:00,Initial complaint filed
+242,COMPLAINT,19,,Open,SP_Submit_Complaint,2024-03-20 07:00:00,Initial complaint filed
+243,COMPLAINT,19,Open,Under Review,SP_Update_Status,2024-03-26 07:00:00,Status updated
+244,COMPLAINT,20,,Open,SP_Submit_Complaint,2024-08-15 19:00:00,Initial complaint filed
+245,COMPLAINT,21,,Open,SP_Submit_Complaint,2024-10-13 01:00:00,Initial complaint filed
+246,COMPLAINT,22,,Open,SP_Submit_Complaint,2024-02-18 03:00:00,Initial complaint filed
+247,COMPLAINT,23,,Open,SP_Submit_Complaint,2024-07-17 10:00:00,Initial complaint filed
+248,COMPLAINT,24,,Open,SP_Submit_Complaint,2024-07-13 13:00:00,Initial complaint filed
+249,COMPLAINT,24,Open,Resolved,SP_Update_Status,2024-07-15 13:00:00,Status updated
+250,COMPLAINT,25,,Open,SP_Submit_Complaint,2024-08-10 16:00:00,Initial complaint filed
+251,COMPLAINT,26,,Open,SP_Submit_Complaint,2025-01-05 04:00:00,Initial complaint filed
+252,COMPLAINT,26,Open,Under Review,SP_Update_Status,2025-01-12 04:00:00,Status updated
+253,COMPLAINT,27,,Open,SP_Submit_Complaint,2024-06-04 08:00:00,Initial complaint filed
+254,COMPLAINT,27,Open,Under Review,SP_Update_Status,2024-06-10 08:00:00,Status updated
+255,COMPLAINT,28,,Open,SP_Submit_Complaint,2024-08-13 18:00:00,Initial complaint filed
+256,COMPLAINT,28,Open,Rejected,SP_Update_Status,2024-08-19 18:00:00,Status updated
+257,COMPLAINT,29,,Open,SP_Submit_Complaint,2024-12-21 14:00:00,Initial complaint filed
+258,COMPLAINT,29,Open,Under Review,SP_Update_Status,2024-12-28 14:00:00,Status updated
+259,COMPLAINT,30,,Open,SP_Submit_Complaint,2025-01-12 06:00:00,Initial complaint filed
+260,COMPLAINT,30,Open,Escalated,SP_Update_Status,2025-01-22 06:00:00,Status updated
+261,COMPLAINT,31,,Open,SP_Submit_Complaint,2024-07-20 19:00:00,Initial complaint filed
+262,COMPLAINT,31,Open,Under Review,SP_Update_Status,2024-07-21 19:00:00,Status updated
+263,COMPLAINT,32,,Open,SP_Submit_Complaint,2024-04-03 05:00:00,Initial complaint filed
+264,COMPLAINT,32,Open,Resolved,SP_Update_Status,2024-04-11 05:00:00,Status updated
+265,COMPLAINT,33,,Open,SP_Submit_Complaint,2024-12-20 10:00:00,Initial complaint filed
+266,COMPLAINT,33,Open,Under Review,SP_Update_Status,2024-12-26 10:00:00,Status updated
+267,COMPLAINT,34,,Open,SP_Submit_Complaint,2024-05-10 05:00:00,Initial complaint filed
+268,COMPLAINT,34,Open,Resolved,SP_Update_Status,2024-05-12 05:00:00,Status updated
+269,COMPLAINT,35,,Open,SP_Submit_Complaint,2024-09-03 02:00:00,Initial complaint filed
+270,COMPLAINT,35,Open,Under Review,SP_Update_Status,2024-09-09 02:00:00,Status updated
+271,COMPLAINT,36,,Open,SP_Submit_Complaint,2024-12-26 01:00:00,Initial complaint filed
+272,COMPLAINT,36,Open,Resolved,SP_Update_Status,2025-01-04 01:00:00,Status updated
+273,COMPLAINT,37,,Open,SP_Submit_Complaint,2024-12-06 19:00:00,Initial complaint filed
+274,COMPLAINT,37,Open,Resolved,SP_Update_Status,2024-12-08 19:00:00,Status updated
+275,COMPLAINT,38,,Open,SP_Submit_Complaint,2024-11-27 20:00:00,Initial complaint filed
+276,COMPLAINT,38,Open,Escalated,SP_Update_Status,2024-12-02 20:00:00,Status updated
+277,COMPLAINT,39,,Open,SP_Submit_Complaint,2024-04-24 00:00:00,Initial complaint filed
+278,COMPLAINT,40,,Open,SP_Submit_Complaint,2024-07-19 22:00:00,Initial complaint filed
+279,COMPLAINT,41,,Open,SP_Submit_Complaint,2024-09-04 11:00:00,Initial complaint filed
+280,COMPLAINT,41,Open,Under Review,SP_Update_Status,2024-09-08 11:00:00,Status updated
+281,COMPLAINT,42,,Open,SP_Submit_Complaint,2024-03-13 19:00:00,Initial complaint filed
+282,COMPLAINT,42,Open,Rejected,SP_Update_Status,2024-03-17 19:00:00,Status updated
+283,COMPLAINT,43,,Open,SP_Submit_Complaint,2024-02-19 22:00:00,Initial complaint filed
+284,COMPLAINT,43,Open,Under Review,SP_Update_Status,2024-02-26 22:00:00,Status updated
+285,COMPLAINT,44,,Open,SP_Submit_Complaint,2024-02-28 08:00:00,Initial complaint filed
+286,COMPLAINT,45,,Open,SP_Submit_Complaint,2024-05-05 00:00:00,Initial complaint filed
+287,COMPLAINT,45,Open,Escalated,SP_Update_Status,2024-05-07 00:00:00,Status updated
+288,COMPLAINT,46,,Open,SP_Submit_Complaint,2024-04-28 20:00:00,Initial complaint filed
+289,COMPLAINT,46,Open,Resolved,SP_Update_Status,2024-05-08 20:00:00,Status updated
+290,COMPLAINT,47,,Open,SP_Submit_Complaint,2024-04-11 22:00:00,Initial complaint filed
+291,COMPLAINT,48,,Open,SP_Submit_Complaint,2024-05-23 06:00:00,Initial complaint filed
+292,COMPLAINT,48,Open,Resolved,SP_Update_Status,2024-05-24 06:00:00,Status updated
+293,COMPLAINT,49,,Open,SP_Submit_Complaint,2024-08-22 11:00:00,Initial complaint filed
+294,COMPLAINT,49,Open,Under Review,SP_Update_Status,2024-08-26 11:00:00,Status updated
+295,COMPLAINT,50,,Open,SP_Submit_Complaint,2024-11-01 20:00:00,Initial complaint filed
+296,COMPLAINT,50,Open,Escalated,SP_Update_Status,2024-11-10 20:00:00,Status updated
+297,COMPLAINT,51,,Open,SP_Submit_Complaint,2024-11-12 13:00:00,Initial complaint filed
+298,COMPLAINT,51,Open,Under Review,SP_Update_Status,2024-11-22 13:00:00,Status updated
+299,COMPLAINT,52,,Open,SP_Submit_Complaint,2024-03-09 18:00:00,Initial complaint filed
+300,COMPLAINT,52,Open,Resolved,SP_Update_Status,2024-03-10 18:00:00,Status updated
+301,COMPLAINT,53,,Open,SP_Submit_Complaint,2024-09-18 20:00:00,Initial complaint filed
+302,COMPLAINT,53,Open,Under Review,SP_Update_Status,2024-09-24 20:00:00,Status updated
+303,COMPLAINT,54,,Open,SP_Submit_Complaint,2024-09-07 04:00:00,Initial complaint filed
+304,COMPLAINT,54,Open,Under Review,SP_Update_Status,2024-09-15 04:00:00,Status updated
+305,COMPLAINT,55,,Open,SP_Submit_Complaint,2024-03-12 13:00:00,Initial complaint filed
+306,COMPLAINT,56,,Open,SP_Submit_Complaint,2024-01-05 23:00:00,Initial complaint filed
+307,COMPLAINT,57,,Open,SP_Submit_Complaint,2024-07-29 05:00:00,Initial complaint filed
+308,COMPLAINT,57,Open,Resolved,SP_Update_Status,2024-08-05 05:00:00,Status updated
+309,COMPLAINT,58,,Open,SP_Submit_Complaint,2024-01-16 15:00:00,Initial complaint filed
+310,COMPLAINT,59,,Open,SP_Submit_Complaint,2025-02-03 22:00:00,Initial complaint filed
+311,COMPLAINT,59,Open,Resolved,SP_Update_Status,2025-02-12 22:00:00,Status updated
+312,COMPLAINT,60,,Open,SP_Submit_Complaint,2024-02-28 16:00:00,Initial complaint filed
+313,COMPLAINT,60,Open,Resolved,SP_Update_Status,2024-03-07 16:00:00,Status updated
+314,COMPLAINT,61,,Open,SP_Submit_Complaint,2024-10-06 14:00:00,Initial complaint filed
+315,COMPLAINT,61,Open,Resolved,SP_Update_Status,2024-10-12 14:00:00,Status updated
+316,COMPLAINT,62,,Open,SP_Submit_Complaint,2024-08-18 16:00:00,Initial complaint filed
+317,COMPLAINT,62,Open,Rejected,SP_Update_Status,2024-08-23 16:00:00,Status updated
+318,COMPLAINT,63,,Open,SP_Submit_Complaint,2025-02-01 15:00:00,Initial complaint filed
+319,COMPLAINT,63,Open,Rejected,SP_Update_Status,2025-02-04 15:00:00,Status updated
+320,COMPLAINT,64,,Open,SP_Submit_Complaint,2024-11-19 21:00:00,Initial complaint filed
+321,COMPLAINT,64,Open,Rejected,SP_Update_Status,2024-11-21 21:00:00,Status updated
+322,COMPLAINT,65,,Open,SP_Submit_Complaint,2024-06-29 01:00:00,Initial complaint filed
+323,COMPLAINT,65,Open,Rejected,SP_Update_Status,2024-07-03 01:00:00,Status updated
+324,COMPLAINT,66,,Open,SP_Submit_Complaint,2024-05-29 02:00:00,Initial complaint filed
+325,COMPLAINT,66,Open,Escalated,SP_Update_Status,2024-06-02 02:00:00,Status updated
+326,COMPLAINT,67,,Open,SP_Submit_Complaint,2024-01-31 16:00:00,Initial complaint filed
+327,COMPLAINT,68,,Open,SP_Submit_Complaint,2024-05-07 05:00:00,Initial complaint filed
+328,COMPLAINT,69,,Open,SP_Submit_Complaint,2024-07-31 20:00:00,Initial complaint filed
+329,COMPLAINT,69,Open,Resolved,SP_Update_Status,2024-08-07 20:00:00,Status updated
+330,COMPLAINT,70,,Open,SP_Submit_Complaint,2024-12-21 19:00:00,Initial complaint filed
+331,COMPLAINT,70,Open,Resolved,SP_Update_Status,2024-12-28 19:00:00,Status updated
+332,COMPLAINT,71,,Open,SP_Submit_Complaint,2024-02-18 07:00:00,Initial complaint filed
+333,COMPLAINT,71,Open,Rejected,SP_Update_Status,2024-02-25 07:00:00,Status updated
+334,COMPLAINT,72,,Open,SP_Submit_Complaint,2024-04-21 21:00:00,Initial complaint filed
+335,COMPLAINT,72,Open,Resolved,SP_Update_Status,2024-04-24 21:00:00,Status updated
+336,COMPLAINT,73,,Open,SP_Submit_Complaint,2024-03-08 02:00:00,Initial complaint filed
+337,COMPLAINT,73,Open,Under Review,SP_Update_Status,2024-03-15 02:00:00,Status updated
+338,COMPLAINT,74,,Open,SP_Submit_Complaint,2024-08-23 08:00:00,Initial complaint filed
+339,COMPLAINT,75,,Open,SP_Submit_Complaint,2024-04-14 06:00:00,Initial complaint filed
+340,COMPLAINT,75,Open,Under Review,SP_Update_Status,2024-04-16 06:00:00,Status updated
+341,COMPLAINT,76,,Open,SP_Submit_Complaint,2024-02-18 04:00:00,Initial complaint filed
+342,COMPLAINT,76,Open,Rejected,SP_Update_Status,2024-02-23 04:00:00,Status updated
+343,COMPLAINT,77,,Open,SP_Submit_Complaint,2024-06-06 07:00:00,Initial complaint filed
+344,COMPLAINT,78,,Open,SP_Submit_Complaint,2024-02-09 12:00:00,Initial complaint filed
+345,COMPLAINT,79,,Open,SP_Submit_Complaint,2024-06-24 11:00:00,Initial complaint filed
+346,COMPLAINT,80,,Open,SP_Submit_Complaint,2024-02-16 07:00:00,Initial complaint filed
+347,COMPLAINT,81,,Open,SP_Submit_Complaint,2024-07-14 12:00:00,Initial complaint filed
+348,COMPLAINT,81,Open,Rejected,SP_Update_Status,2024-07-24 12:00:00,Status updated
+349,COMPLAINT,82,,Open,SP_Submit_Complaint,2024-11-28 13:00:00,Initial complaint filed
+350,COMPLAINT,82,Open,Resolved,SP_Update_Status,2024-12-05 13:00:00,Status updated
+351,COMPLAINT,83,,Open,SP_Submit_Complaint,2024-12-17 22:00:00,Initial complaint filed
+352,COMPLAINT,83,Open,Escalated,SP_Update_Status,2024-12-20 22:00:00,Status updated
+353,COMPLAINT,84,,Open,SP_Submit_Complaint,2025-01-08 20:00:00,Initial complaint filed
+354,COMPLAINT,84,Open,Resolved,SP_Update_Status,2025-01-13 20:00:00,Status updated
+355,COMPLAINT,85,,Open,SP_Submit_Complaint,2024-05-08 01:00:00,Initial complaint filed
+356,COMPLAINT,86,,Open,SP_Submit_Complaint,2024-01-15 05:00:00,Initial complaint filed
+357,COMPLAINT,86,Open,Resolved,SP_Update_Status,2024-01-19 05:00:00,Status updated
+358,COMPLAINT,87,,Open,SP_Submit_Complaint,2024-06-01 04:00:00,Initial complaint filed
+359,COMPLAINT,88,,Open,SP_Submit_Complaint,2024-09-13 04:00:00,Initial complaint filed
+360,COMPLAINT,88,Open,Under Review,SP_Update_Status,2024-09-22 04:00:00,Status updated
+361,COMPLAINT,89,,Open,SP_Submit_Complaint,2024-03-08 20:00:00,Initial complaint filed
+362,COMPLAINT,89,Open,Escalated,SP_Update_Status,2024-03-17 20:00:00,Status updated
+363,COMPLAINT,90,,Open,SP_Submit_Complaint,2025-01-29 10:00:00,Initial complaint filed
+364,COMPLAINT,90,Open,Resolved,SP_Update_Status,2025-01-29 10:00:00,Status updated
